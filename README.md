@@ -197,8 +197,4 @@ Pairs are `status=ok`, `skipped` (e.g. missing vessel mask) or `error`; only
 - **AUC@37.5px** — area under the cumulative-error curve up to 37.5 px
   (`LANDMARK_AUC_MAX_PX`).
 
-## Tests
 
-```bash
-pytest ../tests
-```
